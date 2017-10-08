@@ -2,7 +2,7 @@
  * @author Tyler Race
  * This is a class used a base class for other shapes.
  */
-public abstract class Shape {
+public class Shape {
 	private double area;
 	private int xPos, yPos;
 	private String color;
