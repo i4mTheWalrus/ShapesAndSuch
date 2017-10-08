@@ -28,7 +28,7 @@ public class Shape {
 		return yPos;
 	}
 	
-	abstract public void setArea(double newArea);
+	//public void setArea(double newArea);
 	public double getArea() {
 		return area;
 	}
