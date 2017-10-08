@@ -5,6 +5,10 @@ public class Interface {
 		Shape square = new Shape();
 		square.setColor("Yellow");
 		System.out.println(square.getColor());
+		
+		square.moveShape(12, 23);
+		
+		System.out.println(square.getXPos());
 	}
 
 }
