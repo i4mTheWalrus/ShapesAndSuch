@@ -9,6 +9,7 @@ public class Interface {
 		square.moveShape(12, 23);
 		
 		System.out.println(square.getXPos());
+		/***************************/
 	}
 
 }
